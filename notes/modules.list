@@ -1,0 +1,14 @@
+registry
+interface
+gfx
+networking
+
+systems:
+- manipulations
+- visualizations (viz)
+- simulations    (sim)
+- social
+
+apps:
+- root console
+- voxim

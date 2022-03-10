@@ -1,0 +1,9 @@
+# GEM Registry System
+
+The registry is spread accross nodes,
+at a top level there is a resolver which maps top level UUID's to top level objects,
+
+The central data structure of the registry is an object and it is similar to a Javascript object, Python dictionary or Lua table. Like a node it can have parents and children. Every object should have a UUID.
+
+GEMx doesn't expose a filesystem just the interface to this registry.
+

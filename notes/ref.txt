@@ -1,0 +1,7 @@
+
+reference projects:
+- Red programming language (as inspiration for the registry)
+- Lua programming language (as inspiration for the VM)
+- Blender (as artistic inspiration)
+- Forth programming language and VM (http://www.ultratechnology.com/)
+- OKAD (Forth CAD system)

@@ -1,0 +1,4 @@
+
+maybe all apps should be containorized in a way, meaning that they specifically are stipened resources in specific formats.
+and resources should be represented as special objects in the registry,
+with metadata on the application itself which will also be registered in the registry and the objects it's allowed by the X layer
