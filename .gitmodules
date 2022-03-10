@@ -1,0 +1,3 @@
+[submodule "mods/registry"]
+	path = mods/registry
+	url = git@github.com:greenempower/registry.git
