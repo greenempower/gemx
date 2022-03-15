@@ -5,3 +5,13 @@ reference projects:
 - Blender (as artistic inspiration)
 - Forth programming language and VM (http://www.ultratechnology.com/)
 - OKAD (Forth CAD system)
+
+reference VMs:
+- https://ethereum.org/en/whitepaper/
+- https://docs.oracle.com/javase/specs/jvms/se17/jvms17.pdf
+- https://llvm.org/docs/LangRef.html
+- https://the-ravi-programming-language.readthedocs.io/en/latest/lua_bytecode_reference.html
+- https://www.lua.org/doc/jucs05.pdf
+
+reference libs:
+- https://ceph.com/

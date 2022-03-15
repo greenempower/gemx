@@ -1,3 +1,15 @@
 [submodule "mods/registry"]
-	path = mods/registry
+	path = mods/core/registry
 	url = git@github.com:greenempower/registry.git
+[submodule "mods/gfx"]
+	path = mods/gfx
+	url = git@github.com:greenempower/gfx.git
+[submodule "mods/vm"]
+	path = mods/core/vm
+	url = git@github.com:greenempower/vm.git
+[submodule "mods/interface"]
+	path = mods/interface
+	url = git@github.com:greenempower/interface.git
+[submodule "mods/net"]
+	path = mods/net
+	url = git@github.com:greenempower/net.git

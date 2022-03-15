@@ -1,7 +1,8 @@
 registry
 interface
 gfx
-networking
+networking (with p2p emphasis)
+vm
 
 systems:
 - manipulations
@@ -12,3 +13,4 @@ systems:
 apps:
 - root console
 - voxim
+- edit

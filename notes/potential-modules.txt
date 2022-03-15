@@ -1,0 +1,19 @@
+core:
+- pool (if this doens't fit into registry this is more low level and specialized)
+
+comms,
+metrics (and social metrics),
+productivity ?,
+charicon ? (character/actor lexicon)
+art,
+linguistics (lingui),
+crypto,
+voca(l)(oid),
+cinema (propaganda centered creation),
+styalization (automated styling for all systems),
+asset library (but this needs to be expanded),
+study,
+decentralization (system for making all decentralized),
+anon (anonymous browsing and identities),
+security (keyring, key management, password management, etc),
+math (types such as matrices, vectors and operations)

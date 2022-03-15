@@ -1,0 +1,3 @@
+
+Regarding the modules, I don't think it is necessary to create much of a distinction between libraries and programs but instead each module is a running daemon that exposes an API in a certain format potentially by the registry.
+Or that mechanism may need to be implemented in a maximally efficient way to avoid message passing overhead.

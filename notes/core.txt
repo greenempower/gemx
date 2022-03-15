@@ -1,0 +1,3 @@
+--- core ---
+
+core refers to the part of GEMx that is not encapsulated in a module

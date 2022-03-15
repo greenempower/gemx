@@ -1,0 +1,30 @@
+--- module format spec ---
+
+modules should be individually compiled and packaged in a certain format for gemx to register
+
+potentially a compressed tar file,
+or a squashfs
+
+I intend to compile the base modules using meson.
+
+potential files:
+- meta.json (name, version, etc)
+- schema.json (file and directory extra data)
+- package.json
+- features.json (required features)
+- LICENSE
+- readme(.md/.txt/.rst/.html/.xml)
+
+potential dirs:
+- assets/
+- bin/ (binary blobs)
+- code/ (scripts)
+- conf/ (config defaults)
+- registry/ (static registry entries)
+- docs/ (documentation)
+- meta/
+
+data:
+- authors and keys
+- hashes
+- credits
