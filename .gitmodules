@@ -11,5 +11,5 @@
 	path = mods/interface
 	url = git@github.com:greenempower/interface.git
 [submodule "mods/net"]
-	path = mods/net
+	path = mods/core/net
 	url = git@github.com:greenempower/net.git

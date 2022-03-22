@@ -1,0 +1,15 @@
+--- notes on core/common ---
+
+data spec
+
+types (definitions will change):
+- int (same as C)
+- long (same as C)
+- float (same as C)
+- double (same as C)
+- unsigned int (same as C)
+- unsigned long (same as C)
+
+built in types should include:
+- dynamically sized integers and floats
+- a general number type

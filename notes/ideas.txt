@@ -24,3 +24,7 @@ perhaps there should be seperate specifications for different device and contain
 4. a full spec for PC-type devices (laptops, desktops and workstations)
 5. a super computer spec
 # note there are considerations for non-graphic server environments and regarding a node-based architecture
+or there could be a more fine grained system for query'ing features and adjusting at runtime
+
+
+

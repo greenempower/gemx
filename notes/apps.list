@@ -3,5 +3,8 @@ voxim
 potential:
 - crypto suite (integrates hardware and software wallet(s), exchange(s), staking, bots and a solid/secure interface as an app into the GEMx system)
     potentially the app should be called 'wallet', it should initially support ETH and maybe ADA, XMR. It should support UniSwap, maybe as leverage the cctx library
+- a feeds app like Twitter/RSS
 
 - lbry/odysee client and/or node
+
+- a suite of social communications related interfaces

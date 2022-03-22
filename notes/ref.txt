@@ -15,3 +15,7 @@ reference VMs:
 
 reference libs:
 - https://ceph.com/
+
+crypto/comms:
+- https://gnupg.org/
+- https://emailselfdefense.fsf.org/
